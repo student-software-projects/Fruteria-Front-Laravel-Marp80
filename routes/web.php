@@ -14,6 +14,6 @@ use App\Http\Controllers\LandingController;
 |
 */
 
-Route::get('Inicio',[LandingController::class,'Inicio']);
+Route::get('/',[LandingController::class,'Inicio']);
 Route::get('Acerca',[LandingController::class,'Acerca']);
 Route::get('Domicilio',[LandingController::class,'Domicilio']);

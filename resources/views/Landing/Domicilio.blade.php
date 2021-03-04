@@ -8,7 +8,7 @@
         <nav style="background-color: forestgreen; text-align: center; margin-top: -30px;  color: antiquewhite">
             <h1 style="font-size: 40px; height: 20px">Fruteria</h1>
                     <p>
-                        <a  STYLE=" color: antiquewhite" href="Inicio">Inicio</a> |
+                        <a  STYLE=" color: antiquewhite" href="/">Inicio</a> |
                         <a style=" color: antiquewhite" href="Acerca">Acerca</a>|
                         <a style=" color: antiquewhite" href="Domicilio">Domicilios</a>
                     </p>
